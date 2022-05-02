@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sirunen
-- 👀 I’m interested in developing digital tools for healthcare.
+- 👀 I’m interested in developing digital tools for education and healthcare.
 - 🌱 I’m currently learning more.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me 
+- 📫 How to reach me - siru@
 
 <!---
 Sirunen/Sirunen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
